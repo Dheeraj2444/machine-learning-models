@@ -4,7 +4,6 @@ import numpy as np
 import pandas as pd
 
 '''
-Assignment 04: Problem 02
 Command to execute: python filemane.py
 uncomment the url corresponding to a data set to run for that particular 
 data set
